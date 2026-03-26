@@ -10,7 +10,7 @@
             <div class="hero-overlay-center">
                 <span class="badge badge-gold">The Art of Luxury</span>
                 <h1 class="hero-logo-title">LUMINA GRAND HOTEL</h1>
-                <p>Onde o requinte encontra o horizonte em Cascais.</p>
+                <p>Donde encontrar el horizonte relajadamente en Cascais.</p>
             </div>
         </section>
 
@@ -18,8 +18,8 @@
             <div class="header-container">
                 <div class="section-intro" style="text-align: center; margin-bottom: 40px;">
                     <span class="badge badge-gold">Serviços Exclusivos</span>
-                    <h2 class="section-title">Experiências de Temporada</h2>
-                    <p style="color: var(--gray-text);">Clique nos cartões para descobrir os detalhes de cada programa.</p>
+                    <h2 class="section-title">Experiencias de Temporada</h2>
+                    <p style="color: var(--gray-text);">Clica para descubrir los detalles de cada programa.</p>
                 </div>
 
                 <div class="offers-grid horizontal-layout">
@@ -30,24 +30,24 @@
                         </div>
                         <div class="offer-details">
                             <span class="offer-category">Romance</span>
-                            <h3>Pack Romântico</h3>
+                            <h3>Pack Romántico</h3>
                             
                             <div class="offer-description">
-                                <p class="short-desc">Espumante e jantar à luz das velas na suite.</p>
+                                <p class="short-desc">Cava con velas en una suite.</p>
                                 
                                 <div class="full-info-box">
-                                    <p class="full-desc">Uma noite desenhada para o amor. Inclui decoração personalizada com pétalas de rosa, uma garrafa de espumante premium à chegada e um menu de degustação de 3 pratos servido privadamente no seu quarto.</p>
+                                    <p class="full-desc">Una noche diseñada para el amor.Incluye decoración personalizada con pétalos de rosa, una botella de cava y un menú degustación de 3 platos servido en su habitació .</p>
                                     <ul class="offer-specs">
-                                        <li><i class="fa-regular fa-clock"></i> <strong>Horário:</strong> Sob reserva (Jantar às 20h00)</li>
+                                        <li><i class="fa-regular fa-clock"></i> <strong>Horário:</strong> Bajo reserva (cena a las  20h00)</li>
                                         <li><i class="fa-solid fa-location-dot"></i> <strong>Local:</strong> Suite Privada</li>
-                                        <li><i class="fa-solid fa-euro-sign"></i> <strong>Custo:</strong> 80€ por casal</li>
+                                        <li><i class="fa-solid fa-euro-sign"></i> <strong>Custo:</strong> 80€ por pareja</li>
                                     </ul>
                                 </div>
                             </div>
 
                             <div class="offer-footer">
                                 <span class="price-tag">80€</span>
-                                <span class="btn-text">Saber Mais <i class="fa-solid fa-plus"></i></span>
+                                <span class="btn-text">Saber más<i class="fa-solid fa-plus"></i></span>
                             </div>
                         </div>
                     </div>
@@ -58,15 +58,15 @@
                         </div>
                         <div class="offer-details">
                             <span class="offer-category">Lazer</span>
-                            <h3>Noite de Karaoke</h3>
+                            <h3>Noche de Karaoke</h3>
                             
                             <div class="offer-description">
-                                <p class="short-desc">Sextas-feiras animadas no nosso Lounge Bar.</p>
+                                <p class="short-desc">Los viernes hay fiestas animadas en nuestro  Lounge Bar.</p>
                                 
                                 <div class="full-info-box">
                                     <p class="full-desc">Liberte a sua voz no palco do Lumina! Uma noite descontraída com sistema de som de alta fidelidade, lista de músicas internacionais e cocktails de assinatura com desconto para participantes.</p>
                                     <ul class="offer-specs">
-                                        <li><i class="fa-regular fa-clock"></i> <strong>Horário:</strong> Sextas, 21h30 - 01h00</li>
+                                        <li><i class="fa-regular fa-clock"></i> <strong>Horario:</strong> Sextas, 21h30 - 01h00</li>
                                         <li><i class="fa-solid fa-location-dot"></i> <strong>Local:</strong> Blue Horizon Lounge</li>
                                         <li><i class="fa-solid fa-euro-sign"></i> <strong>Custo:</strong> Entrada Gratuita</li>
                                     </ul>
